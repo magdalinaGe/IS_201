@@ -35,7 +35,7 @@
 .banner{
   width: 100%; 
   height: 400px;
-  background-image: url(/startbootstrap-grayscale-gh-pages/assets/img/taste.jpg);
+  background-image: url(assets/img/taste.jpg);
   background-size: cover;
   background-position: center;
  
@@ -43,7 +43,7 @@
 .banner2{
   width: 100%; 
   height: 400px;
-  background-image: url(/startbootstrap-grayscale-gh-pages/assets/img/svaneti.jpg);
+  background-image: url(assets/img/svaneti.jpg);
   background-size: cover;
   background-position: center;
  
